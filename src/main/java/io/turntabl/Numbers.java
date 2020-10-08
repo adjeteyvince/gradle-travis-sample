@@ -6,6 +6,7 @@ public class Numbers {
     }
 
     private static boolean greaterThanZero(int i){
+	int Vincent = 2020;
         return i > 0;
     }
 
